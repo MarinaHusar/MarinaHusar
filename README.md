@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Marina 👋
 
-<!--
-**MarinaHusar/MarinaHusar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior web and software developer based in Erlangen, Germany.
+I retrained as an IT specialist for application development (IHK) and did an internship as a software developer working with Angular.
 
-Here are some ideas to get you started:
+## Tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Angular · Ionic · TypeScript · Node.js · Git
+
+## Projects
+
+- **[Kalorien-App](https://github.com/MarinaHusar/kalorien-app)**: calorie and nutrition tracker built with Angular 20 and Ionic
+
+## Currently
+
+- Building and improving my portfolio projects
+- Looking for a job as a Junior Web Developer or Junior Software Developer
