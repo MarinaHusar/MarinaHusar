@@ -1,7 +1,10 @@
-# Hi, I'm Marina 👋
+<h1 align="center">Hi, I'm Marina 👋</h1>
 
-I'm a junior web and software developer based in Erlangen, Germany.
-I retrained as an IT specialist for application development (IHK) and did an internship as a software developer working with Angular.
+<p align="center">I'm a <b>junior web and software developer</b> based in Erlangen, Germany 📍</p>
+
+- 🎓 Retrained as an IT specialist for application development (IHK)
+- 💼 Internship as a software developer, working with Angular and Ionic
+- 🔍 Open to junior web and software developer roles
 
 ## My Tech Stack 🛠️
 
