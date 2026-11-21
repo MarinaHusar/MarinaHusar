@@ -3,9 +3,9 @@
 I'm a junior web and software developer based in Erlangen, Germany.
 I retrained as an IT specialist for application development (IHK) and did an internship as a software developer working with Angular.
 
-## Tech
+## My Tech Stack 🛠️
 
-Angular · Ionic · TypeScript · Node.js · Git
+![My Tech Stack](https://skillicons.dev/icons?i=angular,ionic,ts,nodejs,git)
 
 ## Projects
 
